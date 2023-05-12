@@ -102,6 +102,15 @@ Interactive Fulll Stack clone of slido.com with Group Chatting, Quizzes and Word
 ***Abhimanyu***
 
 ***Harshal***
+Signup page
+1 Signup
+2 Signup with github
+login page
+1 login 
+2 login with github
+3 responsiveness
+index page
+1 Working on index page
 
 Signup page
 - 1 Signup
